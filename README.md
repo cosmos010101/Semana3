@@ -1,107 +1,60 @@
-# Semana3
+![Duoc UC](https://www.duoc.cl/wp-content/uploads/2022/09/logo-0.png)
+# 🧠 Evaluación Final Transversal – Desarrollo Orientado a Objetos I
 
-<p>
-  <img src="https://www.duoc.cl/wp-content/uploads/2022/09/logo-0.png" width="300"/>
-</p>
-Encargo semana 3 Desarrollo orientado a objetos I
-# 🧠 Desarrollo Orientado a Objetos I - Duoc UC Online
-
-¡Bienvenidas y bienvenidos al repositorio oficial de la asignatura **Desarrollo Orientado a Objetos (PRY2202)** impartida en modalidad online por la Escuela de Informática y Telecomunicaciones de Duoc UC!  
-Aquí encontrarás **todos los recursos necesarios** para complementar tu aprendizaje y avanzar en los contenidos de forma autónoma, clara y ordenada.
+## 👤 Autor del proyecto
+- **Nombre completo:** Lorena Padilla Michea
+- **Sección:** 002A
+- **Carrera:** Analísta Programador
+- **Sede:** Sede Online
 
 ---
 
-## 📁 Estructura del Repositorio
+## 📘 Descripción general del sistema
+Este proyecto corresponde a la Evaluación Final Transversal de la asignatura *Desarrollo Orientado a Objetos I*. Se trata de un sistema orientado a objetos desarrollado en Java, cuyo objetivo es modelar y gestionar entidades representativas de un dominio real, aplicando los principios de encapsulamiento, composición, herencia, polimorfismo e interfaces.
 
-Este repositorio está organizado por **Experiencias de Aprendizaje (EA)**. Cada experiencia contiene las actividades correspondientes a una o más semanas. Además, se incluye una carpeta exclusiva para la **Evaluación Final Transversal (EFT)** y una carpeta adicional con recursos complementarios.
+El proyecto fue desarrollado a partir de un caso contextualizado, abordando problemáticas reales y proponiendo una solución estructurada, modular y reutilizable.
 
+---
+
+## 🧱 Estructura general del proyecto
+
+```plaintext
+📁 src/
+├── app/         # Clase principal con el método main
+├── model/       # Clases de dominio (Persona, Cliente, Empleado, Producto, etc.)
+├── utils/       # Utilidades y validaciones
+└── interfaces/  # Interfaces implementadas por las clases
+````
+
+---
+
+
+
+## ⚙️ Instrucciones para clonar y ejecutar el proyecto
+
+1. Clona el repositorio desde GitHub:
+
+```bash
+git clone https://github.com/usuario/repositorio-evaluacion-final.git
 ```
-📦 desarrollo_orientado_a_objetos/
-┣ 📂 EA1/
-┃ ┣ 📂 semana_1/                
-┃ ┣ 📂 semana_2/                
-┃ ┣ 📂 semana_3/                
-┣ 📂 EA2/
-┃ ┣ 📂 semana_4/               
-┃ ┣ 📂 semana_5/                
-┣ 📂 EA3/
-┃ ┣ 📂 semana_6/                
-┃ ┣ 📂 semana_7/                
-┃ ┣ 📂 semana_8/               
-┣ 📂 EFT/
-┃ ┣ 📂 semana_9/                
-┣ 📂 recursos_extras/
-┃ ┣ 📜 guías_evaluaciones/       
-┃ ┣ 📜 ejemplos_apoyo/          
-┃ ┗ 📜 entregas_formativas_y_sumativas/ 
-┗ README.md
 
-```
+2. Abre el proyecto en IntelliJ IDEA.
 
----
+3. Verifica que los archivos `.txt` estén correctamente ubicados.
 
-## 📚 Contenidos Incluidos
+4. Ejecuta el archivo `Main.java` desde el paquete `app`.
 
-### ✅ Código fuente 
-- Programas desarrollados en clases online.
-- Comentados y organizados por temas y secuencia pedagógica.
-
-### 📝 Recursos extra
-- Guías para evaluaciones formativas y sumativas.
-- Instrucciones de entregas prácticas.
-- Material de refuerzo y enlaces útiles.
-
----
-
-## 🎯 Objetivo de la asignatura
-
-Desarrollar soluciones orientadas a objetos aplicando principios fundamentales como **encapsulamiento, herencia, polimorfismo, composición**, uso de **colecciones**, e integración de buenas prácticas de programación y documentación.
-
----
-
-## 🚀 ¿Cómo usar este repositorio?
-
-1. Explora la carpeta de tu **Experiencia de Aprendizaje actual** (EA1, EA2, EA3).
-2. Abre la carpeta correspondiente a la semana que estás revisando.
-3. Ejecuta el código en IntelliJ Idea.
-4. Revisa los recursos adicionales si estás preparando una evaluación.
-
----
-
-## 🧩 Requisitos
-
-Para trabajar correctamente con los recursos de este repositorio, asegúrate de tener instalado lo siguiente:
-
-- ☕ **Java JDK 17 o superior**  
-  [Descargar Java](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
-
-- 💻 **IDE recomendado: IntelliJ IDEA Comunity Edition**  
-  - [Descargar IntelliJ IDEA (Community Edition)](https://www.jetbrains.com/idea/download/)  
-
-- 🧰 **Git instalado para clonar y versionar el repositorio**  
-  [Descargar Git](https://git-scm.com/downloads)
-
-- 🌐 **Cuenta de GitHub activa** (obligatoria)  
-  [Crear cuenta en GitHub](https://github.com/signup)  
-  > Tu cuenta te servirá para clonar repositorios, subir avances, y entregar evaluaciones a través de GitHub. 
+5. Sigue las instrucciones en consola o en la interfaz gráfica (si corresponde).
 
 
 ---
 
-## 🤝 Contribuciones
-
-Este repositorio es de uso académico. Si deseas aportar mejoras o correcciones, puedes hacer un fork y enviar un pull request con tus propuestas.
+**Repositorio GitHub:** \[Pega aquí el enlace al repositorio]
+**Fecha de entrega:** \[DD/MM/2025]
 
 ---
 
-## 👨‍🏫 Autor
-
-**Marcelo Crisóstomo Carrasco**  
-Docente Escuela de Informática y Telecomunicaciones  
-Duoc UC - Sede Puerto Montt  
-✉️ [mar.crisostomo@profesor.duoc.cl]
-
-
+© Duoc UC | Escuela de Informática y Telecomunicaciones | Evaluación Final Transversal EFT
 
 
 
