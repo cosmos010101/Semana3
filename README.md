@@ -35,7 +35,7 @@ El proyecto fue desarrollado a partir de un caso contextualizado, abordando prob
 1. Clona el repositorio desde GitHub:
 
 ```bash
-git clone https://github.com/usuario/repositorio-evaluacion-final.git
+git clone https://github.com/cosmos010101/Semana3.git
 ```
 
 2. Abre el proyecto en IntelliJ IDEA.
@@ -49,12 +49,12 @@ git clone https://github.com/usuario/repositorio-evaluacion-final.git
 
 ---
 
-**Repositorio GitHub:** \[Pega aquí el enlace al repositorio]
-**Fecha de entrega:** \[DD/MM/2025]
+**Repositorio GitHub:** (https://github.com/cosmos010101/Semana3.git)
+**Fecha de entrega:** [08/06/2026]
 
 ---
 
-© Duoc UC | Escuela de Informática y Telecomunicaciones | Evaluación Final Transversal EFT
+© Duoc UC | Escuela de Informática y Telecomunicaciones | S3: Realizando validación, excepciones y relaciones entre clases | Sumativa 1
 
 
 
